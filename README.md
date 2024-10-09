@@ -3,4 +3,5 @@
 
 
 ## 99.7% on MNIST (highest on internet(100$))
+### the same model, trained on MNIST, was good enough to crack 91% on MNIST-C
 ## 91% on MNIST-C (highest on internet(~97%))
